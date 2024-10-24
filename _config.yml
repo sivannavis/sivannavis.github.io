@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Obscura # the website title (if blank, full name will be used instead)
+title: Sivan :D # the website title (if blank, full name will be used instead)
 first_name: Siwen (Sivan)
 middle_name:
 last_name: Ding
@@ -132,7 +132,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Nexus # blog_name will be displayed in your blog page
-blog_description: Written on water...
+blog_description: Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

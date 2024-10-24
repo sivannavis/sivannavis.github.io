@@ -5,12 +5,10 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: Personal Site
+    permalink: https://www.sivan.fun/
   - title: divider
-  - title: projects
-    permalink: /projects/
+  - title: All Updates
+    permalink: /news/
   - title: divider
-  - title: blog
-    permalink: /blog/
 ---
