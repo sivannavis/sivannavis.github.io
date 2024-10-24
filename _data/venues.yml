@@ -1,9 +1,7 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"ICASSP24":
+  url: https://2024.ieeeicassp.org/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
+"ICASSP23":
+  url: https://2024.ieeeicassp.org/
   color: "#009f36"

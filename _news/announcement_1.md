@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my Ph.D. journey at Music and Audio Research Lab, NYU.
+I started my Ph.D. journey at [MARL, NYU](https://steinhardt.nyu.edu/marl/).
