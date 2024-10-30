@@ -1,7 +1,3 @@
-"ICASSP24":
-  url: https://2024.ieeeicassp.org/
+"ICASSP":
+  url: https://ieeeicassp.org/
   color: "#00369f"
-
-"ICASSP23":
-  url: https://2024.ieeeicassp.org/
-  color: "#009f36"
