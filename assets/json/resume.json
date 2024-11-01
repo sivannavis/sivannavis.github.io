@@ -161,7 +161,7 @@
       "summary": "A Python Library for Soundscape Visualization",
       "highlights": [
         "Generate spatial audio with SpatialScaper and visualize its moving track with DeepWave",
-        "The visualizer uses APGD algorithm to takes in a 32-channel spatialized audio and outputs a 2D/3D energy map"
+        "Uses APGD algorithm to takes in a 32-channel spatialized audio and outputs a 2D/3D energy map"
       ],
       "startDate": "2024-01",
       "endDate": "2024-03",
@@ -169,9 +169,9 @@
     },
     {
       "name": "Neuro-Harmonilizer",
-      "summary": "A Python Library for Soundscape Visualization",
+      "summary": "A measurement and identification method for chord audio harmony qualities.",
       "highlights": [
-        "It maps any chord to a polar coordinates ϕ, ρ, where ϕ means the color orientation and the ρ means the tension class within the total 31 classes."
+        "Quantifies any chord to a polar coordinates ϕ, ρ, where ϕ means the color orientation and the ρ means the tension class"
       ],
       "startDate": "2024-03",
       "endDate": "2024-05",
