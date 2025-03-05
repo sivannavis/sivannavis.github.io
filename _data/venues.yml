@@ -1,3 +1,7 @@
 "ICASSP":
   url: https://ieeeicassp.org/
   color: "#00369f"
+
+"ISMIR":
+  url: https://www.ismir.net/
+  color: "#e76f51"

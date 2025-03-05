@@ -1,33 +1,33 @@
-"Bello":
-  - firstname: ["Juan", "Juan P."]
+"bello":
+  - firstname: ["Juan", "Juan P.", "Juan Pablo"]
     url: https://wp.nyu.edu/jpbello/
 
-"Roman":
+"roman":
   - firstname: ["Iran", "Iran R."]
     url: https://iranroman.github.io/
   - firstname: [ "Adrian S." ]
     url: https://adriansroman.github.io/cv/
 
-"Ick":
+"ick":
   - firstname: ["Christopher"]
     url: https://chrisick.github.io/
 
-"McFee":
+"mcfee":
   - firstname: ["Brian"]
     url: https://brianmcfee.net/
 
-"Zhang":
+"zhang":
   - firstname: ["You"]
     url: https://yzyouzhang.com/
 
-"Duan":
+"duan":
   - firstname: ["Zhiyao"]
     url: https://hajim.rochester.edu/ece/sites/zduan/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"wilkins":
+  - firstname: ["Julia"]
+    url: https://juliawilkins.github.io/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"fuentes":
+  - firstname: ["Magdalena"]
+    url: https://magdalenafuentes.com/
